@@ -1,0 +1,7 @@
+C:\C#2\lap2bai1\lap2 bai4\bin\Debug\lap2 bai4.exe.config
+C:\C#2\lap2bai1\lap2 bai4\bin\Debug\lap2 bai4.exe
+C:\C#2\lap2bai1\lap2 bai4\bin\Debug\lap2 bai4.pdb
+C:\C#2\lap2bai1\lap2 bai4\obj\Debug\lap2 bai4.csproj.AssemblyReference.cache
+C:\C#2\lap2bai1\lap2 bai4\obj\Debug\lap2 bai4.csproj.CoreCompileInputs.cache
+C:\C#2\lap2bai1\lap2 bai4\obj\Debug\lap2 bai4.exe
+C:\C#2\lap2bai1\lap2 bai4\obj\Debug\lap2 bai4.pdb
